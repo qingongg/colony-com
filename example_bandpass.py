@@ -2,7 +2,7 @@ from plate import Plate
 from species import Species
 import numpy as np
 import math
-import helper_functions as 
+import helper_functions as hf
 
 
 def main():
